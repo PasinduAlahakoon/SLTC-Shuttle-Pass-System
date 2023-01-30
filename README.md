@@ -1,11 +1,6 @@
 # Bus Ticket Booking System
 An online Bus Ticket Booking and Management System implemented using __PHP, MySQL__ and __HTML__
 
-_Supervisor:_
-
-&nbsp;&nbsp;&nbsp;&nbsp;AZM Ehtesham Chowdhury,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor, Department of Computer Science,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Assistant ProfessorAmerican International University-Bangladesh
 
  ----------------------------------------------
  
@@ -17,7 +12,7 @@ _Supervisor:_
 * Admin can manage Users and Locations
 
 **Used Tools:**
-* Sublime Text 3
+* Visual Studio Code
 * XAMPP
  
  **Screenshots:**
