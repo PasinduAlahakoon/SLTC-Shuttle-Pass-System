@@ -1,5 +1,5 @@
 # SLTC Shuttle Pass System
-An online Bus Ticket Booking and Management System implemented using __PHP, MySQL__ and __HTML__
+An online Shuttle Booking and Management System implemented using __PHP, MySQL__ and __HTML__
 
 
  ----------------------------------------------
