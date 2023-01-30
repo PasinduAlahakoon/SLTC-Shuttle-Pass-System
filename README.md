@@ -22,7 +22,7 @@ _Supervisor:_
  
  **Screenshots:**
  
-<img src="https://github.com/deba1/bus-ticket-booking-system/raw/master/screenshots/sasa.JPG" width="70%"/><br>
+<img src="https://github.com/deba1/bus-ticket-booking-system/raw/master/screenshots/sasa.png" width="70%"/><br>
 _Homepage_
 
 <img src="https://github.com/deba1/bus-ticket-booking-system/raw/master/screenshots/admin_bus_manage.png" width="70%"/><br>
