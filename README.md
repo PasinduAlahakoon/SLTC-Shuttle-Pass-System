@@ -15,17 +15,6 @@ An online Shuttle Booking and Management System implemented using __PHP, MySQL__
 * Visual Studio Code
 * XAMPP
  
- **Screenshots:**
- 
-<img src="https://github.com/deba1/bus-ticket-booking-system/raw/master/screenshots/sasa.png" width="70%"/><br>
-_Homepage_
 
-<img src="https://github.com/deba1/bus-ticket-booking-system/raw/master/screenshots/admin_bus_manage.png" width="70%"/><br>
-_Bus Management_
 
-<img src="https://github.com/deba1/bus-ticket-booking-system/raw/master/screenshots/seat_selection.png" width="70%"/><br>
-_Seat Selection_
-
-<img src="https://github.com/deba1/bus-ticket-booking-system/raw/master/screenshots/passenger_history.png" width="70%"/><br>
-_Passenger History_
 
